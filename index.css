@@ -428,7 +428,7 @@ color: var(--color-primary);
     justify-content: center;
 }
 
-.right .theme-toggler span .active{
+.right .theme-toggler .active{
     background: var(--color-primary);
     color: white;
     border-radius: var(--border-radius-1);
